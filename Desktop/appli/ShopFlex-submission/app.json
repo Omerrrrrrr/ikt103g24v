@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "ShopFlex",
+    "slug": "shopflex",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.omergu.shopflex"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "sdkVersion": "52.0.0",
+    "jsEngine": "hermes",
+    "experimental": {
+      "newArchEnabled": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2358ee8f-a199-4d7e-9efa-232ded264da5"
+      }
+    }
+  }
+}

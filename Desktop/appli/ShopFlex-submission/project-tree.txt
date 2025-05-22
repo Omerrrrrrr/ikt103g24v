@@ -1,0 +1,19 @@
+
+/Users/abdiqa11/Desktop/Documents/ShopFlex
+├── ShopFlex
+├── ShopFlex-stable-backup
+├── app
+├── assets
+├── components
+├── context
+├── node_modules
+├── screens
+├── scripts
+├── services
+└── tmp-repair
+
+directory: 11
+
+
+
+[2K[1G
